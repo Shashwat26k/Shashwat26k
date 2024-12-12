@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science .
 - 🌱 I’m currently learning SQL and Python libraries .
 - 💞️ I’m looking to collaborate on OpenML .
-- 📫 You can reach me through Linkeedln .
+- 📫 You can reach me through Linkedln .
 - 😄 Pronouns: He / Him
 
 <!---
