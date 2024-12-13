@@ -1,9 +1,9 @@
-👋 Hi, I'm [Your Name]!  
+👋 Hi, I'm Shashwat Singh  
 📚 BTech Student | Aspiring Data Scientist  
 🚀 Passionate about solving real-world problems using data-driven insights.  
 
 💡 Currently:  
-- Exploring Python for data analysis 🐍  
+- Exploring SQL abd Python libraries for data analysis 🐍  
 - Learning machine learning algorithms 🤖  
 
 🔧 Skills: Python | SQL | Pandas | NumPy  
