@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Shashwat26k
-- 👀 I’m interested in Data Science .
-- 🌱 I’m currently learning SQL and Python libraries .
-- 💞️ I’m looking to collaborate on OpenML .
-- 📫 You can reach me through Linkedln .
-- 😄 Pronouns: He / Him
+👋 Hi, I'm [Your Name]!  
+📚 BTech Student | Aspiring Data Scientist  
+🚀 Passionate about solving real-world problems using data-driven insights.  
+
+💡 Currently:  
+- Exploring Python for data analysis 🐍  
+- Learning machine learning algorithms 🤖  
+
+🔧 Skills: Python | SQL | Pandas | NumPy  
+📊 Interests: Machine Learning | Data Visualization | Big Data  
+
+🌐 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/)  
+- [Portfolio/Blog](https://your-portfolio.com)  
+
+✨ Always excited to collaborate on data science projects!
+
 
 <!---
 Shashwat26k/Shashwat26k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
